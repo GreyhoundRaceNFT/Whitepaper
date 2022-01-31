@@ -2,12 +2,12 @@
 
 En GreyHound Race tendremos distintos tipos de carreras:
 
-\-**Sprint** entre 220 y 290 metros.
+\-**Sprint** de 270 y 380 metros.
 
-\-**Carrera** de entre 360 y 540 metros
+\-**Carrera** de 450 y 600 metros
 
-\-**Carrera larga distancia** entre 600 y 1000 metros
+\-**Carrera larga distancia** de 750 y 1000 metros
 
-\-**Carrera de obstáculos** de entre 400 y 800 metros
+\-**Carrera de obstáculos** de 500 y 800 metros
 
-Habrá distintos estados de la pista (seca, embarrada, con nieve)
+Habrá distintos estados de la pista (seca, mojada, embarrada, con nieve)
