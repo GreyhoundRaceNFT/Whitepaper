@@ -20,7 +20,6 @@
 * [Estadisticas](nfts/estadisticas/README.md)
   * [Experiencia](nfts/estadisticas/obtencion-de-experiencia.md)
   * [Experiencia por carrera](nfts/estadisticas/experiencia-por-carrera.md)
-  * [Ponderación](nfts/estadisticas/ponderacion.md)
 * [Rarezas](nfts/rarezas.md)
 * [Jubilación](nfts/jubilacion.md)
 

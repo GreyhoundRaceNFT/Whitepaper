@@ -4,9 +4,7 @@ En GreyHound Race, hay distintas formas de obtener experiencia para nuestros gal
 
 \-Participando en carreras.
 
-\-Participando en torneos.
-
-\-Entrenando nuestros perros en el entrenador por un costo fijo.
+\-Entrenando nuestros perros en el entrenador por un costo fijo. (ir a [entrenamiento](../../entrenamiento/tipos-de-entrenamiento.md))
 
 {% hint style="success" %}
 Cada 100 puntos conseguirá 1 punto de una estadística en concreto
