@@ -14,7 +14,7 @@ description: Preguntas frecuentes
 
 * **¿Cómo recupero mi inversión?**
 
-\-Si has conseguido comprar un paquete de 5 perros con hembra asegurada, deberías ser capaz de recuperar tu inversión con 1 o 2 de los 6 breedings que tiene dicha hembra.
+\-Si has conseguido comprar un paquete de 5 galgos con hembra asegurada, deberías ser capaz de recuperar tu inversión con 1 o 2 de los 6 breedings que tiene dicha hembra.
 
 \-Si has comprado un sobre individual, tendrás que ganar carreras
 
