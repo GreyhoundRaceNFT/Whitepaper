@@ -35,7 +35,7 @@
 
 ## Tienda
 
-* [Items](tienda/items.md)
+* [Objetos](tienda/items.md)
 
 ## Preventas
 
