@@ -10,4 +10,8 @@ Sigue estos pasos si no has tenido ningún contacto con el mundo de las criptomo
 
 **4-** Añadir la red Polygon y cambiar a ella.
 
-**5-**
+**5-** A través de la cuenta creada en el paso 1, añadir fondos y comprar la cantidad de USDC que necesitamos. Comprar también cierta cantidad de MATIC para pagar las tasas de la blockchain.
+
+**6-** Retirar el USDC y el MATIC desde la plataforma de intercambio elegida a nuestra wallet de Metamask.&#x20;
+
+**7**- Usar el USDC para comprar el nft de nuestro juego. Bien en la pagina oficial (si quedan sobres de preventa) o bien en el market de nfts que nosotros indiquemos.
