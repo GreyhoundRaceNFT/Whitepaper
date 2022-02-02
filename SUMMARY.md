@@ -46,5 +46,4 @@
 * [El equipo](conocenos/el-equipo/README.md)
   * [FAQ](conocenos/el-equipo/faq.md)
 * [Roadmap](conocenos/roadmap.md)
-* [Vision de futuro](conocenos/vision-de-futuro.md)
 * [Donaciones](conocenos/donaciones.md)
