@@ -50,6 +50,4 @@ Nuestros queridos jugadores serán Inmunes a ballenas, bots y traders.
 
 * **¿Tenéis algún juego más en mente?**
 
-\-Tenemos ya otro juego pensado, de temática diferente, pero con características similares.
-
-\-Si este tiene la aceptación que pensamos, estará disponible en menos de 2 años.
+El potencial del equipo nos deja abierto un amplio abanico de posibles juegos, pero preferimos centrarnos en este hasta que sea el momento de hablar algo tan a largo plazo.

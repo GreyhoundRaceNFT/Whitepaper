@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Descripción del proyecto](README.md)
+* [Índice](README.md)
+* [Descripción del proyecto](<README (1).md>)
 
-## Requisitos de entrada
+## Como jugar
 
-* [El comienzo](requisitos-de-entrada/el-comienzo/README.md)
-  * [Guia desde 0](requisitos-de-entrada/el-comienzo/guia-desde-0.md)
-* [Como usar la red Polygon](requisitos-de-entrada/como-usar-la-red-polygon.md)
+* [El comienzo](como-jugar/el-comienzo/README.md)
+  * [Guia desde 0](como-jugar/el-comienzo/guia-desde-0.md)
 
 ## Caracteristicas P2E
 
