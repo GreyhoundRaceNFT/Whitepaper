@@ -10,9 +10,7 @@ Somos un grupo de entusiastas de las criptomonedas y de los juegos NFT, como cua
 
 {% embed url="https://asierras.com" %}
 
-[https://es.linkedin.com/in/abel-sierra-s%C3%A1nchez-50179671](https://es.linkedin.com/in/abel-sierra-s%C3%A1nchez-50179671)
-
-
+[https://www.linkedin.com/in/abelsierrasanchez/](https://www.linkedin.com/in/abelsierrasanchez/)
 
 ## Luis Algarate CEO
 
