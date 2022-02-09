@@ -4,7 +4,7 @@ Somos un grupo de entusiastas de las criptomonedas y de los juegos NFT, como cua
 
 ## Antonio Ureña CTRO
 
-[https://es.linkedin.com/in/antonio-angel-ure%C3%B1a-g%C3%A1lvez-9075351a3](https://es.linkedin.com/in/antonio-angel-ure%C3%B1a-g%C3%A1lvez-9075351a3)
+[https://www.linkedin.com/in/antoniourenagalvez](https://www.linkedin.com/in/antoniourenagalvez)
 
 ## Abel Sierra 2do CTRO
 
