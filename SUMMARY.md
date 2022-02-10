@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Índice](README.md)
-* [Descripción del proyecto](<README (1).md>)
+* [Descripción del proyecto](README.md)
 
 ## Como jugar
 
@@ -47,3 +46,4 @@
   * [FAQ](conocenos/el-equipo/faq.md)
 * [Roadmap](conocenos/roadmap.md)
 * [Donaciones](conocenos/donaciones.md)
+* [Redes Sociales](conocenos/redes-sociales.md)
