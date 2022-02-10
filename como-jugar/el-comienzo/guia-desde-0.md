@@ -14,4 +14,4 @@ Sigue estos pasos si no has tenido ningún contacto con el mundo de las criptomo
 
 **6-** Retirar el USDC y el MATIC desde la plataforma de intercambio elegida a nuestra wallet de Metamask.&#x20;
 
-**7**- Usar el USDC para comprar el nft de nuestro juego. Bien en la pagina oficial (si quedan sobres de preventa) o bien en el market de nfts que nosotros indiquemos.
+**7**- Usar el USDC para comprar mínimo un nft de nuestro juego. Bien en la página oficial (si quedan sobres de preventa) o bien en el market de nfts que nosotros indiquemos.
