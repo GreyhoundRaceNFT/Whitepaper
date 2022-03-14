@@ -20,5 +20,5 @@ Somos un grupo de entusiastas de las criptomonedas y de los juegos NFT, como cua
 
 
 
-## Raul Barreda D. Marketing
+## Joaquin Cruces D. de marketing
 
