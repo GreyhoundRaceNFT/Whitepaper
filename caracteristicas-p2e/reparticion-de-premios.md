@@ -1,6 +1,6 @@
 # Reparticion de premios
 
-* **Carreras normales**
+* **Carreras normales.**
 
 \-Las carreras gratuitas **NO** tendrán costo de inscripción pero tampoco darán experiencia.
 
@@ -12,7 +12,7 @@
 | 2do puesto | 32,00%                   |
 | 3er puesto | 18,00%                   |
 
-* **Torneo**
+* **Torneo.**
 
 Tendrán un costo de inscripción y también darán experiencia.
 
@@ -27,11 +27,11 @@ Tendrán un costo de inscripción y también darán experiencia.
 | 7        | 4,00%                    |
 | 8        | 2,00%                    |
 
-* **Torneo de asociación**
+* **Torneo de asociación.**
 
 Mismo reparto que los torneos normales.
 
 * ****
-* **Torneo benéfico**
+* **Torneo benéfico.**
 
 Tendrán un costo de inscripción muy bajo pero no se reparte prize pool. Todo lo obtenido se donará a una asociación u ong distinta cada vez. Estos torneos darán más experiencia que los normales o de asociaciones. A modo de agradecimiento a nuestros miembros más solidarios.
