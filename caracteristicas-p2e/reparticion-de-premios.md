@@ -27,11 +27,6 @@
 | 7        | 4,00%                    |
 | 8        | 2,00%                    |
 
-* **Torneos patrocinados**
-
-\-El patrocinador decide la configuración de los galgos hábiles para el torneo. Los galgos reciben experiencia.
-
 * **Torneo benéfico**
 
 \-Tendrán un costo de inscripción muy bajo pero no se reparte prize pool. Todo lo obtenido se donará a una asociación u ong distinta cada vez. Estos torneos darán más experiencia que los normales o patrocinados a modo de agradecimiento a nuestros miembros más solidarios.
-
