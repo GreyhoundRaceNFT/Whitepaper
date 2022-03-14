@@ -9,7 +9,7 @@ Los jugadores podrán poner a sus galgos a entrenar una de las estadísticas, du
 | 4H                  | 12 / 96                            | 2.0$                |
 | 8H                  | 10 / 80                            | 4.0$                |
 
-Después de cada entrenamiento, si no pasamos por el fisio, nuestro galgo tendrá más posibilidades de lesionarse en el siguiente entrenamiento, quedando un tiempo inutilizado en el que no podrá hacer nada.
+Después de cada entrenamiento, si no pasamos por el[fisio-perruno.md](lesiones/fisio-perruno.md "mention"), nuestro galgo tendrá más posibilidades de lesionarse en el siguiente entrenamiento, quedando un tiempo inutilizado en el que no podrá hacer nada.
 
 {% hint style="info" %}
 El tiempo máximo que cada NFT puede entrenar al dia son 8h en total, según la estrategia y tiempo de juego de cada persona, decidirá cómo distribuir estos entrenamientos entre las distintas estadísticas.
