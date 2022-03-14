@@ -1,6 +1,6 @@
-# Objetos
+# Items
 
-Lista de objetos y su precio dentro del juego. Iremos sacando mas items bajo demanda de los jugadores.
+Iremos sacando más objetos según las necesidades y demandas de la comunidad.
 
 * Hueso de reseteo. 5$
 
