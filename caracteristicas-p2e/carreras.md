@@ -10,7 +10,9 @@ En GreyHound Race tendremos distintos tipos de carreras:
 
 \-**Carrera de obstáculos** de 500 y 800 metros.
 
-Habrá distintos estados de la pista (seca, mojada, embarrada, con nieve)
+En las carreras gratuitas y en los torneos, habrá distintos estados de la pista que influirán en el resultado.
+
+(seca, mojada, embarrada, con nieve)
 
 {% hint style="info" %}
 Queremos remarcar la importancia de las distintas estadísticas sobre el resultado de la carrera según su distancia y/o estado de pista.
