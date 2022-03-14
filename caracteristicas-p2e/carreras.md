@@ -16,7 +16,7 @@ Habrá distintos estados de la pista (seca, mojada, embarrada, con nieve)
 Queremos remarcar la importancia de las distintas estadísticas sobre el resultado de la carrera según su distancia y/o estado de pista.
 {% endhint %}
 
-**Tabla de costes de inscripción por categoría:**
+**Costes de inscripción por categoría:**
 
 | Categoria | Inscripción en $ |
 | --------- | ---------------- |
