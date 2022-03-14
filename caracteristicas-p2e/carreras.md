@@ -23,12 +23,12 @@ Queremos remarcar la importancia de las distintas estadísticas sobre el resulta
 | Categoria | Inscripción en USDC |
 | --------- | ------------------- |
 | I         | 1-3                 |
-| II        | 2-4                 |
-| III       | 3-5                 |
-| IV        | 4-6                 |
-| V         | 5-7                 |
-| VI        | 6-8                 |
-| VII       | 7-9                 |
-| VIII      | 8-10                |
-| IX        | 9-11                |
-| X         | 10-12               |
+| II        | 3-5                 |
+| III       | 5-7                 |
+| IV        | 7-9                 |
+| V         | 9-11                |
+| VI        | 11-13               |
+| VII       | 13-15               |
+| VIII      | 15-17               |
+| IX        | 17-19               |
+| X         | 19-21               |
