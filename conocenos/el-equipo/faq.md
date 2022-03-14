@@ -6,17 +6,19 @@ description: Preguntas frecuentes
 
 * **¿De donde se financia el proyecto si no hay token involucrado?**
 
-\-El proyecto se financia con la preventa y la venta pública de NFTs, la comisión de el 2% del prizepool las carreras, el costo del entrenador, y de los objetos que están a la venta.
+\-**El proyecto** se financia con la preventa y la venta pública de NFTs, la comisión de el 2% del prizepool las carreras y de los torneos, el costo del entrenador, y de los objetos disponibles en la tienda.
 
 * **¿Eso significa que el equipo de desarrollo se queda todo lo obtenido?**
 
-\-No, ni mucho menos! A parte de tener un link de referido para creadores de contenido con respecto a preventa y venta pública, con parte de lo obtenido en las mismas, se hará toda la contratación de personal necesaria, alojamiento en servidores, marketing inicial y continuo. También se financiará una primera semana de torneos con premios muy interesantes y se garantizará que siempre habrá carreras gratuitas de todas las categorías diariamente.
+\-No, ni mucho menos !! A parte de tener un link de referido para creadores de contenido con respecto a preventa y venta pública, con parte de lo obtenido en las mismas, se hará toda la contratación de personal extra necesaria, ampliación de infraestructura, financiación de carreras gratuitas, donaciones ...&#x20;
+
+También se financiará una primera semana de torneos con premios muy interesantes y se garantizará que siempre habrá carreras gratuitas de todas las categorías diarias.
 
 * **¿Cómo recupero mi inversión?**
 
 \-Si has conseguido comprar un paquete de 5 galgos con hembra asegurada, deberías ser capaz de recuperar tu inversión con 1 o 2 de los 6 breedings que tiene dicha hembra.
 
-\-Si has comprado un sobre individual, tendrás que ganar carreras
+\-Si has comprado un sobre individual, tendrás que ganar carreras y torneos.
 
 * **¿Por qué la red polygon y no la bsc?**
 
@@ -24,19 +26,19 @@ description: Preguntas frecuentes
 
 * ¿**Se podrán a la venta más galgos?**
 
-\-No volverán a salir más nfts a la venta.
+\-No volverán a salir más nfts a la venta por parte del proyecto.
 
-\-Una vez acabada la preventa y la venta pública, si hay algún nft sobrante, será quemado y la única forma de que salgan nts será mediante el breeding.
+\-Una vez acabada la preventa y la venta pública, si hay algún nft sobrante, será quemado y la única forma de que generar nuevos NFTs será mediante el breeding.
 
 * **¿Por qué las hembras sólo pueden tener 6 cachorros y los galgos se jubilan?**
 
 \-Para que el crecimiento del juego sea de una forma sostenible y no haya una sobrepoblación de galgos.
 
-* **¿Qué podría tumbar el proyecto?**
+* **¿Qué podría tumbar el juego?**
 
 \-Es un proyecto novedoso, sostenible, tiene estrategia y es emocionante.
 
-\-Lo único que podría tumbar el proyecto es que los jugadores perdiesen interés en él y no creemos que suceda, ya que hay millones de aficionados en el mundo en carreras de galgos.
+\-Lo único que podría tumbar el proyecto es que los jugadores perdieran interés en él y no creemos que suceda, ya que hay una grandísima demanda por juegos NFT sostenibles y con garantía total de la solidez del proyecto.
 
 * **¿A qué clase de personas va dirigido el juego?**
 
@@ -46,7 +48,7 @@ Por supuesto también va dirigido a cualquier entusiasta de las criptomonedas qu
 
 En resumidas cuentas, nuestro juego va dirigido a cualquier persona que quiera ganar criptomonedas de una forma divertida, sostenible y sólida.
 
-Nuestros queridos jugadores serán Inmunes a ballenas, bots y traders.
+Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo crypto. (estafas, volatilidad, corta vida del proyecto, hacks...)
 
 * **¿Tenéis algún juego más en mente?**
 

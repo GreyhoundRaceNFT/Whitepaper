@@ -7,6 +7,10 @@
 * [El comienzo](como-jugar/el-comienzo/README.md)
   * [Guia desde 0](como-jugar/el-comienzo/guia-desde-0.md)
 
+## Preventas
+
+* [Preventa privada](preventas/preventa-privada.md)
+
 ## Caracteristicas P2E
 
 * [Carreras](caracteristicas-p2e/carreras.md)
@@ -35,10 +39,6 @@
 ## Tienda
 
 * [Items](tienda/items.md)
-
-## Preventas
-
-* [Preventa privada](preventas/preventa-privada.md)
 
 ## Conocenos
 
