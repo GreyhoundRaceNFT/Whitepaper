@@ -14,7 +14,7 @@
 
 * **Torneo**
 
-\-Tendrán un costo de inscripción y también darán experiencia.
+Tendrán un costo de inscripción y también darán experiencia.
 
 | Posicion | Porcentaje del prizepool |
 | -------- | ------------------------ |
@@ -29,4 +29,4 @@
 
 * **Torneo benéfico**
 
-\-Tendrán un costo de inscripción muy bajo pero no se reparte prize pool. Todo lo obtenido se donará a una asociación u ong distinta cada vez. Estos torneos darán más experiencia que los normales o patrocinados a modo de agradecimiento a nuestros miembros más solidarios.
+Tendrán un costo de inscripción muy bajo pero no se reparte prize pool. Todo lo obtenido se donará a una asociación u ong distinta cada vez. Estos torneos darán más experiencia que los normales o de asociaciones. A modo de agradecimiento a nuestros miembros más solidarios.
