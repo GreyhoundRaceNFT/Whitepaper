@@ -2,7 +2,7 @@
 
 En GreyHound Race, hay distintas formas de obtener experiencia para nuestros galgos:
 
-\-Participando en carreras:
+**-Participando en carreras:**
 
 | Carrera      | Clima                               | Experiencia                                                 |
 | ------------ | ----------------------------------- | ----------------------------------------------------------- |
@@ -17,7 +17,7 @@ En GreyHound Race, hay distintas formas de obtener experiencia para nuestros gal
 | 800 m Vallas | <p>Mojado<br>Embarrado<br>Nieve</p> | <p>+2 exp Agilidad<br>+3 exp Fuerza</p>                     |
 | 1000 m       | Todos                               | <p>+1 exp Velocidad<br>+4 exp Resistencia</p>               |
 
-\-Entrenando nuestros perros en el entrenador por un costo fijo. (ir a [entrenamiento](../../entrenamiento/tipos-de-entrenamiento.md))
+**-Entrenando** nuestro galgo en el entrenador por un costo fijo. (ir a [entrenamiento](../../entrenamiento/tipos-de-entrenamiento.md))
 
 {% hint style="success" %}
 Por cada 100 puntos de experiencia, esa estadística subirá un punto. (100 exp = 1 attr)
