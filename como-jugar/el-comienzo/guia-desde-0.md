@@ -8,7 +8,7 @@ Sigue estos pasos si no has tenido ningún contacto con el mundo de las criptomo
 
 **3-** Crearse una wallet en dicha extensión, siguiendo sus recomendaciones de seguridad.
 
-**4-** Añadir la red Polygon mainnet y cambiar a ella. ( [https://chainlist.org](https://chainlist.org) )
+**4-** Añadir la red Polygon Mainnet y cambiar a ella. ( [https://chainlist.org](https://chainlist.org) )
 
 **5-** A través de la cuenta creada en el paso 1, añadir fondos y comprar la cantidad de USDC que necesitamos. Comprar también cierta cantidad de MATIC para pagar las tasas de la blockchain.
 
