@@ -2,8 +2,6 @@
 
 * **Carreras normales.**
 
-\-Las carreras gratuitas **NO** tendrán costo de inscripción pero tampoco darán experiencia.
-
 \-Las carreras normales **SI** tendrán costo de inscripción y también darán experiencia.
 
 | Posicion   | Porcentaje del prizepool |
@@ -11,6 +9,10 @@
 | 1er puesto | 48,00%                   |
 | 2do puesto | 32,00%                   |
 | 3er puesto | 18,00%                   |
+
+{% hint style="danger" %}
+<mark style="color:red;">Las carreras gratuitas no tendrán costo de inscripción pero tampoco darán experiencia.</mark>
+{% endhint %}
 
 * **Torneo.**
 
