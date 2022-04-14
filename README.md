@@ -17,16 +17,3 @@ Se harán un gran número de carreras diarias gratuitas de las distintas categor
 La economía será de libre mercado, por lo que a través de algún market de NFTs, los dueños podrán ponerlos al precio que decida cada uno. La compra a través market es la única manera de entrar al juego una vez terminada la preventa de NFTs.
 
 Os preguntareis muchas cosas, todas ellas las explicaremos a lo largo de este whitepaper.
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\\
