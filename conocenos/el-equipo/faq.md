@@ -10,17 +10,17 @@ description: Preguntas frecuentes
 
 * **¿Eso significa que el equipo de desarrollo se queda todo lo obtenido?**
 
-\-No, ni mucho menos !! A parte de tener un link de referido para creadores de contenido con respecto a preventa y venta pública, con parte de lo obtenido en las mismas, se hará toda la contratación de personal extra necesaria, ampliación de infraestructura, financiación de carreras gratuitas, donaciones ...&#x20;
+\-No, ni mucho menos. A parte de tener un link de referido para creadores de contenido relativo a preventa y venta pública de NFTs, con parte de lo obtenido en las mismas, se hará toda la contratación de personal extra necesaria, ampliación de infraestructura, financiación de carreras gratuitas, donaciones, continuar con el desarrollo del juego, …&#x20;
 
-También se financiará una primera semana de torneos con premios muy interesantes y se garantizará que siempre habrá carreras gratuitas de todas las categorías diarias.
+También se financiará una primera semana de torneos con premios mas que interesantes.
 
 * **¿Cómo recupero mi inversión?**
 
-\-Si has conseguido comprar un paquete de 5 galgos con hembra asegurada, deberías ser capaz de recuperar tu inversión con 1 o 2 de los 6 breedings que tiene dicha hembra.
+\-Si has conseguido comprar un paquete de 3 galgos con hembra asegurada, deberías ser capaz de recuperar tu inversión con 1 o 2 de los 6 breedings disponibles.
 
 \-Si has comprado un sobre individual, tendrás que ganar carreras y torneos.
 
-* **¿Cuanto tiempo pasará desde que se realice la preventa hasta que se lance el juego completamente funcional?**
+* **¿Cuánto tiempo pasará desde que se realice la preventa hasta que se lance el juego completamente funcional?**
 
 \-Como no se realizará la preventa hasta tener el juego completo, bajo ningún concepto pasará mas de 1 semana desde el termino de la misma hasta el lanzamiento.
 
@@ -30,7 +30,7 @@ También se financiará una primera semana de torneos con premios muy interesant
 
 * ¿**Se podrán a la venta más galgos?**
 
-\-No volverán a salir más nfts a la venta por parte del proyecto.
+\-No volverán a salir más NFTs a la venta por parte del proyecto.
 
 \-Una vez acabada la preventa y la venta pública, si hay algún NFT sobrante, será quemado y la única forma de que generar nuevos NFTs será mediante el breeding.
 
@@ -46,13 +46,13 @@ También se financiará una primera semana de torneos con premios muy interesant
 
 * **¿A qué clase de personas va dirigido el juego?**
 
-Nuestro juego va dirigido en gran parte a las personas que están cansadas de los click to earn, también va dirigido a todos los que se han visto afectados por la mala fé y/o negligencia de los desarrolladores con los proyectos que presentaban al público, y dichos jugadores han perdido parte o toda su inversión.
+Nuestro juego va dirigido en gran parte a las personas que están cansadas de los click to earn, también va dirigido a todos los que se han visto afectados por la mala fe y/o negligencia de los desarrolladores con los proyectos que presentaban al público, y dichos jugadores han perdido parte o toda su inversión.
 
 Por supuesto también va dirigido a cualquier entusiasta de las criptomonedas que no conociera los juegos play to earn y para todos aquellos que ni siquiera se habían embarcado en el mundillo crypto.
 
 En resumidas cuentas, nuestro juego va dirigido a cualquier persona que quiera ganar criptomonedas de una forma divertida, sostenible y sólida.
 
-Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo crypto. (estafas, volatilidad, corta vida del proyecto, exploits, ...)
+Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo crypto. (estafas, volatilidad, corta vida del proyecto, exploits, …)
 
 * **¿Tenéis algún juego más en mente?**
 
