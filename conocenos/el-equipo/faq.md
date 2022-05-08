@@ -6,7 +6,7 @@ description: Preguntas frecuentes
 
 * **¿De donde se financia el proyecto si no hay token involucrado?**
 
-\-**El proyecto** se financia con la preventa y la venta pública de NFTs, la comisión de el 2% del prizepool las carreras y de los torneos, el costo del entrenador, y de los objetos disponibles en la tienda.
+\-El proyecto se financia con la preventa y la venta pública de NFTs, la comisión de el 2% del prizepool las carreras y de los torneos, el costo del entrenador, y de los objetos disponibles en la tienda.
 
 * **¿Eso significa que el equipo de desarrollo se queda todo lo obtenido?**
 
