@@ -28,7 +28,7 @@ También se financiará una primera semana de torneos con premios mas que intere
 
 \-Porque las tasas de las red polygon son muchos más bajas que las de la bsc y así los jugadores ahorrarán dinero.
 
-* ¿**Se podrán a la venta más galgos?**
+* ¿**Se pondrán a la venta más galgos?**
 
 \-No volverán a salir más NFTs a la venta por parte del proyecto.
 
