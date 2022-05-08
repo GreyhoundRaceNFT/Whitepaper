@@ -35,6 +35,6 @@ Mismo reparto que los torneos normales.
 
 * **Torneo benéfico.**
 
-Tendrán un costo de inscripción muy bajo pero no se reparte prize pool. Todo lo obtenido se donará a una protectora de  animales u ONG de ayuda humanitaria distinta cada vez.&#x20;
+Tendrán un costo de inscripción muy bajo pero no se reparte el prize pool. Todo lo obtenido se donará a una protectora de animales u ONG sin animo de lucro distinta cada vez.&#x20;
 
 Estos torneos darán más experiencia que los normales o de asociaciones. A modo de agradecimiento a nuestros usuarios más solidarios.

@@ -10,9 +10,7 @@ En GreyHound Race tendremos distintos tipos de carreras:
 
 \-**Carrera de obstáculos** de 500 y 800 metros.
 
-En las carreras gratuitas y en los torneos, habrá distintos estados de la pista que influirán en el resultado.
-
-(seca, mojada, embarrada, con nieve)
+En la modalidad gratuita de carreras y torneos, habrá implementados distintos estados de la pista que influirán en el resultado. Siendo dichos estados: seca, mojada, embarrada o con nieve.
 
 {% hint style="info" %}
 Queremos remarcar la importancia de las distintas estadísticas sobre el resultado de la carrera según su distancia y/o estado de pista.
@@ -20,15 +18,15 @@ Queremos remarcar la importancia de las distintas estadísticas sobre el resulta
 
 **Costes de inscripción por categoría:**
 
-| Categoria | Inscripción en USDC |
-| --------- | ------------------- |
-| I         | 1-3                 |
-| II        | 3-5                 |
-| III       | 5-7                 |
-| IV        | 7-9                 |
-| V         | 9-11                |
-| VI        | 11-13               |
-| VII       | 13-15               |
-| VIII      | 15-17               |
-| IX        | 17-19               |
-| X         | 19-21               |
+| Categoría |  Costo de inscripción en USDC | Prize Pool de la carrera |
+| --------- | ----------------------------- | ------------------------ |
+| I         | 1-3                           | 8-24                     |
+| II        | 3-5                           | 24-40                    |
+| III       | 5-7                           | 40-56                    |
+| IV        | 7-9                           | 56-72                    |
+| V         | 9-11                          | 72-88                    |
+| VI        | 11-13                         | 88-104                   |
+| VII       | 13-15                         | 104-120                  |
+| VIII      | 15-17                         | 120-136                  |
+| IX        | 17-19                         | 136-152                  |
+| X         | 19-21                         | 152-168                  |

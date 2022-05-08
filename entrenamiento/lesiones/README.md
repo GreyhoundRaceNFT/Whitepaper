@@ -1,6 +1,6 @@
 # Lesiones
 
-Con cada entrenamiento consecutivo, sin enviar al perro al fisioterapeuta, aumenta las posibilidades de lesión en gran medida. Un perro lesionado no podrá correr ni entrenar durante 24 horas.
+Con cada entrenamiento **consecutivo**, sin enviar al perro al fisioterapeuta, aumenta las probabilidades de lesión en gran medida. Un perro lesionado no podrá correr ni entrenar durante 24 horas.
 
 {% hint style="info" %}
 La probabilidad de lesión en función de los entrenamientos consecutivos es f(x)=0,85-(1/(1+x)).

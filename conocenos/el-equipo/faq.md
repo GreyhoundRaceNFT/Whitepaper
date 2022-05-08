@@ -20,6 +20,10 @@ También se financiará una primera semana de torneos con premios muy interesant
 
 \-Si has comprado un sobre individual, tendrás que ganar carreras y torneos.
 
+* **¿Cuanto tiempo pasará desde que se realice la preventa hasta que se lance el juego completamente funcional?**
+
+\-Como no se realizará la preventa hasta tener el juego completamente listo, Bajo ningún concepto pasará mas de 1 semana desde el termino de la misma hasta el lanzamiento.
+
 * **¿Por qué la red polygon y no la bsc?**
 
 \-Porque las tasas de las red polygon son muchos más bajas que las de la bsc y así los jugadores ahorrarán dinero.
@@ -28,11 +32,11 @@ También se financiará una primera semana de torneos con premios muy interesant
 
 \-No volverán a salir más nfts a la venta por parte del proyecto.
 
-\-Una vez acabada la preventa y la venta pública, si hay algún nft sobrante, será quemado y la única forma de que generar nuevos NFTs será mediante el breeding.
+\-Una vez acabada la preventa y la venta pública, si hay algún NFT sobrante, será quemado y la única forma de que generar nuevos NFTs será mediante el breeding.
 
-* **¿Por qué las hembras sólo pueden tener 6 cachorros y los galgos se jubilan?**
+* **¿Por qué las hembras sólo pueden tener 6 cachorros y los NFTs se jubilan?**
 
-\-Para que el crecimiento del juego sea de una forma sostenible y no haya una sobrepoblación de galgos.
+\-Para que el crecimiento del juego sea de una forma natural, sostenible y que no haya una sobrepoblación de galgos.
 
 * **¿Qué podría tumbar el juego?**
 
@@ -48,7 +52,7 @@ Por supuesto también va dirigido a cualquier entusiasta de las criptomonedas qu
 
 En resumidas cuentas, nuestro juego va dirigido a cualquier persona que quiera ganar criptomonedas de una forma divertida, sostenible y sólida.
 
-Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo crypto. (estafas, volatilidad, corta vida del proyecto, hacks...)
+Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo crypto. (estafas, volatilidad, corta vida del proyecto, exploits, ...)
 
 * **¿Tenéis algún juego más en mente?**
 
