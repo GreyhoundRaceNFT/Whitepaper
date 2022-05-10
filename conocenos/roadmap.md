@@ -10,7 +10,7 @@
 **Q4**
 
 * Desarrollo completo de la idea.
-* compra de dominios web y assets de unity.
+* Compra de dominios web y assets de unity.
 * Primer contacto con creadores de contenido.
 
 ## 2022
