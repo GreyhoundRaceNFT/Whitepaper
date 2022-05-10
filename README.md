@@ -12,7 +12,7 @@ Los smart contract estarán optimizados al máximo e intentaremos limitar las in
 
 &#x20;El pago de la inscripción a la carrera y el premio de quedar entre los 3 primeros se hará en dicha stablecoin. De igual manera cualquier cosa dentro de nuestro juego se hará en USDC.
 
-Se harán un gran número de carreras diarias gratuitas de distintas categorías (sin costo de entrada, con un premio aportado por el proyecto). Estas carreras no darán experiencia pero si podréis optar al prize pool.
+Se harán un gran número de carreras diarias gratuitas de las distintas categorías (sin costo de entrada, con un premio aportado por el proyecto). Estas carreras no darán experiencia pero si podréis optar al prize pool.
 
 La economía será de libre mercado, por lo que a través de algún market de NFTs, los dueños podrán ponerlos al precio que decida cada uno. La compra a través market es la única manera de entrar al juego una vez terminada la preventa de NFTs.
 

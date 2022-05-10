@@ -7,7 +7,7 @@
 * Planteamiento inicial del juego.
 * Creación del equipo de desarrollo.
 
-**Q4 2021**
+**Q4**
 
 * Desarrollo completo de la idea.
 * compra de dominios web y assets de unity.
@@ -15,26 +15,19 @@
 
 ## 2022
 
-**Q1 2022**
+**Q2**
 
 * Creación de los smart contracts.
 * Lanzamiento pagina web y creación de redes sociales.
 * Marketing.
 * Sorteo en gleam para preventa privada.
+
+**Q3**
+
 * Preventa privada de NFTs.
 * Venta pública de NFTs.
-
-**Q2 2022**&#x20;
-
 * Lanzamiento completo del juego.
 * Primera semana de torneos.
 * Marketing internacional.
-*
 
-**Q3 2022**
-
-*
-*
-
-****
-
+***
