@@ -1,14 +1,14 @@
 # Preventa privada
 
-Se realizará una primera y única preventa de NFTs a través de whitelist por sorteo, que durará un par de días. Tras la cual, los nfts sobrantes se venderán bajo el basis First come first serve.
+Se realizará una primera y única preventa de NFTs a través de whitelist por sorteo, que durará un par de días. Tras la cual, los NFTs sobrantes se venderán bajo el basis First come first serve.
 
-Cada paquete consta de 3 galgos, 2 machos y una hembra asegurada.
+Cada paquete consta de 3 galgos, 2 machos y 1 hembra asegurada.
 
-En la preventa privada habrá un total de 1000 wallets por whitelist y 1000 paquetes a un precio de 120$.
+En la preventa privada habrá un total de 500 wallets por whitelist y 1000 paquetes a un precio de 120$.
 
 En la venta pública habrán 3000 paquetes a un precio de 160$. Y 5000 sobres de 1 NFT a un precio de 60$.
 
-Los perros minteados en preventa, tienen una probabilidad de salir de una categoría superior con los siguientes porcentajes:
+Los galgos minteados en preventa, tienen cierta probabilidad de salir de una categoría superior con los siguientes porcentajes:
 
 | Categoría | Rango suma de estadísticas | Porcentaje de obtención |
 | --------- | -------------------------- | ----------------------- |
