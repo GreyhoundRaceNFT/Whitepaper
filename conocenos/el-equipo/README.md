@@ -6,13 +6,13 @@ Por lo tanto, nuestra única intención, es sacar lo mejor de cada concepto y ga
 
 ## Luis Algarate CEO
 
-## Pablo Rodríguez COO / CMO
+## Pablo Rodríguez CMOO
 
-## Antonio Ureña CTO
+## Antonio Ureña CTRO
 
 [https://www.linkedin.com/in/antoniourenagalvez](https://www.linkedin.com/in/antoniourenagalvez)
 
-## Abel Sierra 2do CTO
+## Abel Sierra CTO
 
 [https://www.linkedin.com/in/abelsierrasanchez/](https://www.linkedin.com/in/abelsierrasanchez/)
 

@@ -1,11 +1,9 @@
 # Redes Sociales
 
-\-[Telegram](https://t.me/GreyhoundRaceAnnouncement)
+\-Instagram
 
-\-[Twitter](https://twitter.com/GreyhoundR\_NFT)
+\-Twitter
 
-\-[Instagram](https://www.instagram.com/greyhoundr\_nft/)
+\-Medium
 
-\-[Youtube](https://www.youtube.com/channel/UCn8sQ4qdufy7sEP6sQkFL1Q)
-
-\-[TikTok](https://www.tiktok.com/@greyhoundrace.nft)
+\-Telegram
