@@ -20,12 +20,12 @@ Tecnología y desarrollo.
 
 ## Abel Sierra CTO
 
-Desarrollo visual
+Desarrollo visual.
 
 [https://www.linkedin.com/in/abelsierrasanchez/](https://www.linkedin.com/in/abelsierrasanchez/)
 
 ## Joaquín Cruces CCO
 
-Comunicaciones y community manager
+Comunicaciones y community manager.
 
-[https://www.linkedin.com/in/joaquinpedrocrucesperez/](https://www.linkedin.com/in/joaquinpedrocrucesperez/)
+{% embed url="https://www.linkedin.com/in/joaquinpedrocrucesperez/" %}
