@@ -4,7 +4,7 @@ GreyHound Race es un juego NFT "think to earn" de carreras de galgos, desarrolla
 
 Es un proyecto novedoso, dado que los usuarios podrán ir mejorando sus NFTs de forma personalizada y minuciosa, buscando una "perfección" en el conjunto de sus estadísticas.
 
-Nuestra visión del proyecto es hacer un juego que perdure en el tiempo, sin fecha de caducidad, que no se vea afectado por las subidas y bajadas del mercado crypto. Un juego NFT anti ballenas y anti traders. Por lo tanto, hemos decidido no involucrar token en la economía y asociar los costos y recompensas única y exclusivamente a la stablecoin USDC.
+Nuestra visión del proyecto es hacer un juego que perdure en el tiempo, sin fecha de caducidad, que no se vea afectado por las subidas y bajadas del mercado cripto. Un juego NFT anti ballenas y anti traders. Por lo tanto, hemos decidido no involucrar token en la economía y asociar los costos y recompensas única y exclusivamente a la stablecoin USDC.
 
 El juego será alojado en Polygon blockchain, una de las redes disponibles con las tasas más bajas.
 
