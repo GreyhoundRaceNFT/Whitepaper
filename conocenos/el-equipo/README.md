@@ -28,7 +28,7 @@ Desarrollo visual.
 
 Comunicaciones y community manager &#x20;
 
-.
+[https://www.linkedin.com/in/joaquinpedrocrucesperez/](https://www.linkedin.com/in/joaquinpedrocrucesperez/)
 
 ## Alvaro
 
