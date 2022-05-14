@@ -26,6 +26,16 @@ Desarrollo visual.
 
 ## Joaquín Cruces CCO
 
-Comunicaciones y community manager.
+Comunicaciones y community manager &#x20;
 
-{% embed url="https://www.linkedin.com/in/joaquinpedrocrucesperez/" %}
+.
+
+## Alvaro
+
+
+
+## Mario
+
+
+
+## Gabriela
