@@ -6,16 +6,26 @@ Por lo tanto, nuestra única intención, es sacar lo mejor de cada concepto y ga
 
 ## Luis Algarate CEO
 
+El jefe.
+
 ## Pablo Rodríguez CMOO
 
+Marketing y operaciones.
+
 ## Antonio Ureña CTRO
+
+Tecnología y desarrollo.
 
 [https://www.linkedin.com/in/antoniourenagalvez](https://www.linkedin.com/in/antoniourenagalvez)
 
 ## Abel Sierra CTO
 
+Desarrollo visual
+
 [https://www.linkedin.com/in/abelsierrasanchez/](https://www.linkedin.com/in/abelsierrasanchez/)
 
 ## Joaquín Cruces CCO
+
+Comunicaciones y community manager
 
 [https://www.linkedin.com/in/joaquinpedrocrucesperez/](https://www.linkedin.com/in/joaquinpedrocrucesperez/)
