@@ -45,5 +45,5 @@
 * [El equipo](conocenos/el-equipo/README.md)
   * [FAQ](conocenos/el-equipo/faq.md)
 * [Roadmap](conocenos/roadmap.md)
-* [Donaciones](conocenos/donaciones.md)
+* [Responsabilidad Social Corporativa](conocenos/donaciones.md)
 * [Redes Sociales](conocenos/redes-sociales.md)
