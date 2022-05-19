@@ -26,5 +26,5 @@ Consejo estratégico: Según como quieras enfocar al galgo, quizá no te conveng
 | X         | 450-500                    |
 
 {% hint style="info" %}
-Las categorías es nuestra manera de diferenciar el desarrollo de los galgos, y así conseguimos evitar que, galgos con estadísticas altas compitan con otros de nivel inferior.
+Establecerlo por categorías es nuestra manera de diferenciar el desarrollo de los galgos, y así conseguimos evitar que galgos con estadísticas altas compitan con otros de nivel inferior.
 {% endhint %}
