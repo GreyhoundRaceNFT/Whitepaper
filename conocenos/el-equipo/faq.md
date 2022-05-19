@@ -26,7 +26,7 @@ También se financiará una primera semana de torneos con premios mas que intere
 
 * **¿Por qué la red polygon y no la bsc?**
 
-\-Porque las tasas de las red polygon son muchos más bajas que las de la bsc y así los jugadores ahorrarán dinero.
+\-Porque las tasas de las red polygon son mucho más bajas que las de la bsc y así los jugadores ahorrarán dinero.
 
 * ¿**Se pondrán a la venta más galgos?**
 
