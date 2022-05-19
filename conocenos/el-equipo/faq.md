@@ -22,7 +22,7 @@ También se financiará una primera semana de torneos con premios mas que intere
 
 * **¿Cuánto tiempo pasará desde que se realice la preventa hasta que se lance el juego completamente funcional?**
 
-\-Como no se realizará la preventa hasta tener el juego completo, bajo ningún concepto pasará mas de 1 semana desde el termino de la misma hasta el lanzamiento.
+\-Como no se realizará la preventa hasta tener el juego completo, bajo ningún concepto pasará mas de 1 semana desde el término de la misma hasta el lanzamiento.
 
 * **¿Por qué la red polygon y no la bsc?**
 
