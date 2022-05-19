@@ -6,7 +6,7 @@ description: Preguntas frecuentes
 
 * **¿De donde se financia el proyecto si no hay token involucrado?**
 
-\-El proyecto se financia con la preventa y la venta pública de NFTs, la comisión de el 2% del prizepool las carreras y de los torneos, el costo del entrenador, y de los objetos disponibles en la tienda.
+\-El proyecto se financia con la preventa y la venta pública de NFTs, la comisión de el 2% del prizepool las carreras y de los torneos, el costo del entrenador, y de la venta de los objetos disponibles en la tienda.
 
 * **¿Eso significa que el equipo de desarrollo se queda todo lo obtenido?**
 
@@ -48,11 +48,11 @@ También se financiará una primera semana de torneos con premios mas que intere
 
 Nuestro juego va dirigido en gran parte a las personas que están cansadas de los click to earn, también va dirigido a todos los que se han visto afectados por la mala fe y/o negligencia de los desarrolladores con los proyectos que presentaban al público, y dichos jugadores han perdido parte o toda su inversión.
 
-Por supuesto también va dirigido a cualquier entusiasta de las criptomonedas que no conociera los juegos play to earn y para todos aquellos que ni siquiera se habían embarcado en el mundillo crypto.
+Por supuesto también va dirigido a cualquier entusiasta de las criptomonedas que no conociera los juegos play to earn y para todos aquellos que ni siquiera se habían embarcado en el mundillo cripto.
 
 En resumidas cuentas, nuestro juego va dirigido a cualquier persona que quiera ganar criptomonedas de una forma divertida, sostenible y sólida.
 
-Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo crypto. (estafas, volatilidad, corta vida del proyecto, exploits, …)
+Nuestros queridos jugadores serán Inmunes a la peor parte de este mundo cripto. (estafas, volatilidad, corta vida del proyecto, exploits, …)
 
 * **¿Tenéis algún juego más en mente?**
 
