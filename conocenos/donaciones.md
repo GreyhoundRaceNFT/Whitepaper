@@ -20,4 +20,4 @@ Dichos porcentajes son los siguientes:
 | 3%   | **Del total** lineal de todo el beneficio a distintos proyectos benéficos tanto humanitarios como animalistas. **2% y 1%** respectivamente. |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 100% | **Del fisio perruno**. Enfocado a protectoras o refugios de animales exclusivamente.                                                        |
-| 100% | **De todos los torneos beneficios.** Para una protectora u ONG humanitaria distinta cada vez.                                               |
+| 100% | **De todos los torneos benéficos.** Para una protectora u ONG humanitaria distinta cada vez.                                                |
