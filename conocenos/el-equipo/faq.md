@@ -46,7 +46,7 @@ También se financiará una primera semana de torneos con premios mas que intere
 
 * **¿A qué clase de personas va dirigido el juego?**
 
-Nuestro juego va dirigido en gran parte a las personas que están cansadas de los click to earn, también va dirigido a todos los que se han visto afectados por la mala fe y/o negligencia de los desarrolladores con los proyectos que presentaban al público, y dichos jugadores han perdido parte o toda su inversión.
+Nuestro juego va dirigido en gran parte a las personas que están cansadas de los click to earn, también va dirigido a todos los que se han visto afectados por la mala fe y/o negligencia de los desarrolladores con los proyectos que presentaban al público y han perdido parte o toda su inversión.
 
 Por supuesto también va dirigido a cualquier entusiasta de las criptomonedas que no conociera los juegos play to earn y para todos aquellos que ni siquiera se habían embarcado en el mundillo cripto.
 
