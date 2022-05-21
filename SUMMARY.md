@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Descripción del proyecto](README.md)
+* [Links oficiales](links-oficiales.md)
 
 ## Como jugar
 
@@ -46,4 +47,3 @@
   * [FAQ](conocenos/el-equipo/faq.md)
 * [Roadmap](conocenos/roadmap.md)
 * [Responsabilidad Social Corporativa](conocenos/donaciones.md)
-* [Enlaces de interes](conocenos/enlaces-de-interes.md)

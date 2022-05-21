@@ -1,4 +1,4 @@
-# Enlaces de interes
+# Links oficiales
 
 [Linktr.ee](https://linktr.ee/greyhound\_race\_nft)&#x20;
 
