@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Descripción del proyecto](README.md)
-* [Links oficiales](links-oficiales.md)
+* [Links oficiales](conocenos/redes-sociales.md)
 
 ## Como jugar
 
