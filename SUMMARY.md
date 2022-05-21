@@ -46,4 +46,4 @@
   * [FAQ](conocenos/el-equipo/faq.md)
 * [Roadmap](conocenos/roadmap.md)
 * [Responsabilidad Social Corporativa](conocenos/donaciones.md)
-* [Redes Sociales](conocenos/redes-sociales.md)
+* [Enlaces de interes](conocenos/enlaces-de-interes.md)
