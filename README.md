@@ -1,6 +1,6 @@
 # Descripción del proyecto
 
-GreyHound Race es un juego NFT "think to earn" de carreras de galgos, desarrollado en unity, en el cual la estrategia será algo fundamental para obtener beneficios.
+GreyHound Race es un juego NFT "think to earn" de carreras de galgos desarrollado en unity, en el cual la estrategia será algo fundamental para obtener beneficios.
 
 Es un proyecto novedoso, dado que los usuarios podrán ir mejorando sus NFTs de forma personalizada y minuciosa, buscando una "perfección" en el conjunto de sus estadísticas.
 
