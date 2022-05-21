@@ -18,4 +18,4 @@
 
 [Dev team](https://financialfreedomgames.gitbook.io/greyhound-race-nft/conocenos/el-equipo)&#x20;
 
-[Contact](mailto:info@greyhoundrace.run) (Para soporte ingame, utilizad el sistema de tickets)&#x20;
+[Contact](mailto:info@greyhoundrace.run) (Para soporte ingame o reporte de bugs, utilizad el sistema de tickets)&#x20;
