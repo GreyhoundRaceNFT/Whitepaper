@@ -20,7 +20,7 @@
 * Creación de los smart contracts.
 * Lanzamiento pagina web y creación de redes sociales.
 * Marketing.
-* Sorteo en gleam para preventa privada.
+* Sorteos en gleam para preventa privada.
 
 **Q3**
 
@@ -28,6 +28,8 @@
 * Venta pública de NFTs.
 * Lanzamiento completo del juego.
 * Primera semana de torneos.
+* Contratación de personal extra
+* Desarrollo propio de modelación 3D
 * Marketing internacional.
 
 ***
