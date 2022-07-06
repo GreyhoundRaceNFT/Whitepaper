@@ -8,9 +8,10 @@
 * [El comienzo](como-jugar/el-comienzo/README.md)
   * [Guia desde 0](como-jugar/el-comienzo/guia-desde-0.md)
 
-## Preventas
+## Preventa
 
-* [Preventa privada](preventas/preventa-privada.md)
+* [Preventa privada](preventa/preventa-privada.md)
+* [Canje de premios (GHR Coin)](preventa/canje-de-premios-ghr-coin.md)
 
 ## Caracteristicas P2E
 

@@ -1,6 +1,6 @@
 # Experiencia
 
-En GreyHound Race, hay distintas formas de obtener experiencia para nuestros galgos:
+En GreyHound Race hay distintas formas de obtener experiencia para nuestros galgos:
 
 **-Participando en carreras:**
 
