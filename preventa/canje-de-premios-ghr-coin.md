@@ -1,6 +1,6 @@
 # Canje de premios (GHR Coin)
 
-En GhR la comunidad es lo primero, por lo tanto, se ha creado una moneda de canje para los NFTs que ya teníamos acordado sortear en las distintas plataformas.
+En GhR la comunidad es lo primero, por lo tanto se ha creado una moneda de canje para los NFTs que ya teníamos acordado sortear en las distintas plataformas.
 
 **Los motivos son los siguientes:**
 

@@ -10,7 +10,7 @@
 
 ## Preventa
 
-* [Preventa privada](preventa/preventa-privada.md)
+* [Preventa privada](preventas/preventa-privada.md)
 * [Canje de premios (GHR Coin)](preventa/canje-de-premios-ghr-coin.md)
 
 ## Caracteristicas P2E
