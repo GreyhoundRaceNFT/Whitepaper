@@ -9,9 +9,9 @@ En GhR la comunidad es lo primero, por lo tanto se ha creado una moneda de canje
 
 **Características de la coin:**
 
+* <mark style="background-color:orange;">Su única función es ser intercambiada en la venta pública</mark> por uno de los NFTs destinados a sorteos. Recordad que 100 GHRC equivalen a 1 NFT!
 * <mark style="background-color:orange;">Max supply de 100.000 GHR Coins</mark> (ni quema ni minteo).
 * <mark style="background-color:orange;">Sin decimales.</mark>
 * <mark style="background-color:orange;">Estándar ERC20.</mark>
 * <mark style="background-color:orange;">Solo transferible desde y hacia wallets en permitedAddress</mark> (variable del smart contract).
 * <mark style="background-color:orange;">No se pueden crear pools de liquidez</mark> (por lo que no puede tener valor económico).
-* <mark style="background-color:orange;">Su única función es ser usada en la venta pública</mark> para comprar uno de los NFTs destinados a sorteos. 100 GHR Coin equivalen a 1 NFT!
