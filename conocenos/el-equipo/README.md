@@ -4,8 +4,6 @@ Somos un grupo de entusiastas de las criptomonedas y de los juegos NFT, como cua
 
 Por lo tanto, nuestra única intención es sacar lo mejor de cada concepto y garantizar que más allá que vosotros mismos decidáis que el juego muere (porque perdáis el interés), nada más podrá tumbar uno de nuestros proyectos.
 
-## Luis Algarate -CEO-
-
 ## Pablo Rodríguez -CMOO-
 
 Marketing y operaciones.
