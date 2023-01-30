@@ -20,18 +20,10 @@ Desarrollo visual.
 
 [https://www.linkedin.com/in/abelsierrasanchez/](https://www.linkedin.com/in/abelsierrasanchez/)
 
-## Joaquín Cruces -CCO-
+## Álvaro -CCO-
 
 Community manager.
 
-[https://www.linkedin.com/in/joaquinpedrocrucesperez/](https://www.linkedin.com/in/joaquinpedrocrucesperez/)
-
-## Álvaro
-
-Marketing y redes sociales.
-
-
-
 ## Gabriela
 
-Diseño gráfico.
+Graphic design.
